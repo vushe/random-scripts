@@ -66,3 +66,9 @@ h3 {
 .note h6 {
     padding-top: 0 !important;
 }
+
+p,
+ul,
+li {
+    line-height: 1.5 !important;
+}
