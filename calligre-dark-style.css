@@ -22,8 +22,9 @@ td > p {
     color: #000 !important;
 }
 
-a {
-    color: #0078F9;
+a,
+a[href] {
+    color: #0078F9 !important;
 }
 
 h1,
@@ -39,6 +40,10 @@ h6 {
 
 h2 {
     color: #00F905 !important;
+}
+
+h4 {
+    color: #1DDCD0 !important;
 }
 
 h3 {
