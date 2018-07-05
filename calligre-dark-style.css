@@ -9,10 +9,10 @@ pre, code {
 }
 
 pre {
-    border: 1px solid #555;
-    border-radius: 6px;
-    padding: 2em;
-    margin: 2em;
+    border: 1px solid #555 !important;
+    border-radius: 6px !important;
+    padding: 2em !important;
+    margin: 2em !important;
 }
 
 th > p,
