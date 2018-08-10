@@ -1,6 +1,6 @@
 body {
     color: #fff;
-    background-color: #333;
+    background-color: #272822 !important;
     text-align: justify;
     padding-left: 2em;
     padding-right: 2em;
@@ -71,4 +71,9 @@ p,
 ul,
 li {
     line-height: 1.5 !important;
+}
+
+td {
+    background: #fff !important;
+    color: #777;
 }
